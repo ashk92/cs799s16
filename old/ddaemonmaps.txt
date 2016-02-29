@@ -1,0 +1,174 @@
+00400000-01e3e000 r-xp 00000000 08:01 879124                             /usr/bin/docker
+0203e000-02040000 r--p 01a3e000 08:01 879124                             /usr/bin/docker
+02040000-02079000 rw-p 01a40000 08:01 879124                             /usr/bin/docker
+02079000-020ad000 rw-p 00000000 00:00 0 
+036ce000-036ef000 rw-p 00000000 00:00 0                                  [heap]
+c000000000-c000003000 rw-p 00000000 00:00 0 
+c81ffa0000-c820c00000 rw-p 00000000 00:00 0                              [stack:4763]
+7f6ca2ffe000-7f6ca2fff000 ---p 00000000 00:00 0 
+7f6ca2fff000-7f6ca37ff000 rw-p 00000000 00:00 0                          [stack:4845]
+7f6ca37ff000-7f6ca3800000 ---p 00000000 00:00 0 
+7f6ca3800000-7f6ca4000000 rw-p 00000000 00:00 0                          [stack:4844]
+7f6ca4000000-7f6ca4021000 rw-p 00000000 00:00 0 
+7f6ca4021000-7f6ca8000000 ---p 00000000 00:00 0 
+7f6ca8000000-7f6ca8021000 rw-p 00000000 00:00 0 
+7f6ca8021000-7f6cac000000 ---p 00000000 00:00 0 
+7f6cac000000-7f6cac021000 rw-p 00000000 00:00 0 
+7f6cac021000-7f6cb0000000 ---p 00000000 00:00 0 
+7f6cb05ed000-7f6cb05ee000 ---p 00000000 00:00 0 
+7f6cb05ee000-7f6cb0dee000 rw-p 00000000 00:00 0                          [stack:4837]
+7f6cb0dee000-7f6cb0def000 ---p 00000000 00:00 0 
+7f6cb0def000-7f6cb15ef000 rw-p 00000000 00:00 0                          [stack:4836]
+7f6cb15ef000-7f6cb15f0000 ---p 00000000 00:00 0 
+7f6cb15f0000-7f6cb1df0000 rw-p 00000000 00:00 0                          [stack:4835]
+7f6cb1df0000-7f6cb1df1000 ---p 00000000 00:00 0 
+7f6cb1df1000-7f6cb25f1000 rw-p 00000000 00:00 0                          [stack:4834]
+7f6cb25f1000-7f6cb25fc000 r-xp 00000000 08:01 262180                     /lib/x86_64-linux-gnu/libnss_files-2.19.so
+7f6cb25fc000-7f6cb27fb000 ---p 0000b000 08:01 262180                     /lib/x86_64-linux-gnu/libnss_files-2.19.so
+7f6cb27fb000-7f6cb27fc000 r--p 0000a000 08:01 262180                     /lib/x86_64-linux-gnu/libnss_files-2.19.so
+7f6cb27fc000-7f6cb27fd000 rw-p 0000b000 08:01 262180                     /lib/x86_64-linux-gnu/libnss_files-2.19.so
+7f6cb27fd000-7f6cb27fe000 ---p 00000000 00:00 0 
+7f6cb27fe000-7f6cb2ffe000 rw-p 00000000 00:00 0                          [stack:4790]
+7f6cb2ffe000-7f6cb2fff000 ---p 00000000 00:00 0 
+7f6cb2fff000-7f6cb37ff000 rw-p 00000000 00:00 0                          [stack:4789]
+7f6cb37ff000-7f6cb3800000 ---p 00000000 00:00 0 
+7f6cb3800000-7f6cb4000000 rw-p 00000000 00:00 0                          [stack:4788]
+7f6cb4000000-7f6cb4021000 rw-p 00000000 00:00 0 
+7f6cb4021000-7f6cb8000000 ---p 00000000 00:00 0 
+7f6cb8000000-7f6cb8021000 rw-p 00000000 00:00 0 
+7f6cb8021000-7f6cbc000000 ---p 00000000 00:00 0 
+7f6cbc000000-7f6cbc021000 rw-p 00000000 00:00 0 
+7f6cbc021000-7f6cc0000000 ---p 00000000 00:00 0 
+7f6cc0000000-7f6cc0021000 rw-p 00000000 00:00 0 
+7f6cc0021000-7f6cc4000000 ---p 00000000 00:00 0 
+7f6cc41c9000-7f6cc41d4000 r-xp 00000000 08:01 262513                     /lib/x86_64-linux-gnu/libnss_nis-2.19.so
+7f6cc41d4000-7f6cc43d3000 ---p 0000b000 08:01 262513                     /lib/x86_64-linux-gnu/libnss_nis-2.19.so
+7f6cc43d3000-7f6cc43d4000 r--p 0000a000 08:01 262513                     /lib/x86_64-linux-gnu/libnss_nis-2.19.so
+7f6cc43d4000-7f6cc43d5000 rw-p 0000b000 08:01 262513                     /lib/x86_64-linux-gnu/libnss_nis-2.19.so
+7f6cc43d5000-7f6cc43ec000 r-xp 00000000 08:01 262375                     /lib/x86_64-linux-gnu/libnsl-2.19.so
+7f6cc43ec000-7f6cc45eb000 ---p 00017000 08:01 262375                     /lib/x86_64-linux-gnu/libnsl-2.19.so
+7f6cc45eb000-7f6cc45ec000 r--p 00016000 08:01 262375                     /lib/x86_64-linux-gnu/libnsl-2.19.so
+7f6cc45ec000-7f6cc45ed000 rw-p 00017000 08:01 262375                     /lib/x86_64-linux-gnu/libnsl-2.19.so
+7f6cc45ed000-7f6cc45ef000 rw-p 00000000 00:00 0 
+7f6cc45ef000-7f6cc45f8000 r-xp 00000000 08:01 262372                     /lib/x86_64-linux-gnu/libnss_compat-2.19.so
+7f6cc45f8000-7f6cc47f7000 ---p 00009000 08:01 262372                     /lib/x86_64-linux-gnu/libnss_compat-2.19.so
+7f6cc47f7000-7f6cc47f8000 r--p 00008000 08:01 262372                     /lib/x86_64-linux-gnu/libnss_compat-2.19.so
+7f6cc47f8000-7f6cc47f9000 rw-p 00009000 08:01 262372                     /lib/x86_64-linux-gnu/libnss_compat-2.19.so
+7f6cc47f9000-7f6cc47fa000 ---p 00000000 00:00 0 
+7f6cc47fa000-7f6cc4ffa000 rw-p 00000000 00:00 0                          [stack:4787]
+7f6cc4ffa000-7f6cc4ffb000 ---p 00000000 00:00 0 
+7f6cc4ffb000-7f6cc57fb000 rw-p 00000000 00:00 0 
+7f6cc57fb000-7f6cc57fc000 ---p 00000000 00:00 0 
+7f6cc57fc000-7f6cc5ffc000 rw-p 00000000 00:00 0                          [stack:4785]
+7f6cc5ffc000-7f6cc5ffd000 ---p 00000000 00:00 0 
+7f6cc5ffd000-7f6cc67fd000 rw-p 00000000 00:00 0                          [stack:4784]
+7f6cc67fd000-7f6cc67fe000 ---p 00000000 00:00 0 
+7f6cc67fe000-7f6cc6ffe000 rw-p 00000000 00:00 0                          [stack:4783]
+7f6cc6ffe000-7f6cc6fff000 ---p 00000000 00:00 0 
+7f6cc6fff000-7f6cc77ff000 rw-p 00000000 00:00 0                          [stack:4779]
+7f6cc77ff000-7f6cc7800000 ---p 00000000 00:00 0 
+7f6cc7800000-7f6cc8000000 rw-p 00000000 00:00 0                          [stack:4778]
+7f6cc8000000-7f6cc8021000 rw-p 00000000 00:00 0 
+7f6cc8021000-7f6ccc000000 ---p 00000000 00:00 0 
+7f6ccc000000-7f6ccc021000 rw-p 00000000 00:00 0 
+7f6ccc021000-7f6cd0000000 ---p 00000000 00:00 0 
+7f6cd0000000-7f6cd0021000 rw-p 00000000 00:00 0 
+7f6cd0021000-7f6cd4000000 ---p 00000000 00:00 0 
+7f6cd402e000-7f6cd40ee000 rw-p 00000000 00:00 0 
+7f6cd40ee000-7f6cd40ef000 ---p 00000000 00:00 0 
+7f6cd40ef000-7f6cd492f000 rw-p 00000000 00:00 0                          [stack:4777]
+7f6cd492f000-7f6cd4930000 ---p 00000000 00:00 0 
+7f6cd4930000-7f6cd5130000 rw-p 00000000 00:00 0                          [stack:4776]
+7f6cd5130000-7f6cd5131000 ---p 00000000 00:00 0 
+7f6cd5131000-7f6cd5971000 rw-p 00000000 00:00 0                          [stack:4775]
+7f6cd5971000-7f6cd5972000 ---p 00000000 00:00 0 
+7f6cd5972000-7f6cd6172000 rw-p 00000000 00:00 0                          [stack:4774]
+7f6cd6172000-7f6cd6173000 ---p 00000000 00:00 0 
+7f6cd6173000-7f6cd69f3000 rw-p 00000000 00:00 0                          [stack:4770]
+7f6cd69f3000-7f6cd69f4000 ---p 00000000 00:00 0 
+7f6cd69f4000-7f6cd71f4000 rw-p 00000000 00:00 0 
+7f6cd71f4000-7f6cd71f5000 ---p 00000000 00:00 0 
+7f6cd71f5000-7f6cd79f5000 rw-p 00000000 00:00 0                          [stack:4762]
+7f6cd79f5000-7f6cd79f6000 ---p 00000000 00:00 0 
+7f6cd79f6000-7f6cd81f6000 rw-p 00000000 00:00 0                          [stack:4761]
+7f6cd81f6000-7f6cd81fa000 r-xp 00000000 08:01 262403                     /lib/x86_64-linux-gnu/libgpg-error.so.0.10.0
+7f6cd81fa000-7f6cd83f9000 ---p 00004000 08:01 262403                     /lib/x86_64-linux-gnu/libgpg-error.so.0.10.0
+7f6cd83f9000-7f6cd83fa000 r--p 00003000 08:01 262403                     /lib/x86_64-linux-gnu/libgpg-error.so.0.10.0
+7f6cd83fa000-7f6cd83fb000 rw-p 00004000 08:01 262403                     /lib/x86_64-linux-gnu/libgpg-error.so.0.10.0
+7f6cd83fb000-7f6cd83fe000 r-xp 00000000 08:01 262189                     /lib/x86_64-linux-gnu/libdl-2.19.so
+7f6cd83fe000-7f6cd85fd000 ---p 00003000 08:01 262189                     /lib/x86_64-linux-gnu/libdl-2.19.so
+7f6cd85fd000-7f6cd85fe000 r--p 00002000 08:01 262189                     /lib/x86_64-linux-gnu/libdl-2.19.so
+7f6cd85fe000-7f6cd85ff000 rw-p 00003000 08:01 262189                     /lib/x86_64-linux-gnu/libdl-2.19.so
+7f6cd85ff000-7f6cd863c000 r-xp 00000000 08:01 262263                     /lib/x86_64-linux-gnu/libpcre.so.3.13.1
+7f6cd863c000-7f6cd883b000 ---p 0003d000 08:01 262263                     /lib/x86_64-linux-gnu/libpcre.so.3.13.1
+7f6cd883b000-7f6cd883c000 r--p 0003c000 08:01 262263                     /lib/x86_64-linux-gnu/libpcre.so.3.13.1
+7f6cd883c000-7f6cd883d000 rw-p 0003d000 08:01 262263                     /lib/x86_64-linux-gnu/libpcre.so.3.13.1
+7f6cd883d000-7f6cd884d000 r-xp 00000000 08:01 264785                     /lib/x86_64-linux-gnu/libudev.so.1.3.5
+7f6cd884d000-7f6cd8a4c000 ---p 00010000 08:01 264785                     /lib/x86_64-linux-gnu/libudev.so.1.3.5
+7f6cd8a4c000-7f6cd8a4d000 r--p 0000f000 08:01 264785                     /lib/x86_64-linux-gnu/libudev.so.1.3.5
+7f6cd8a4d000-7f6cd8a4e000 rw-p 00010000 08:01 264785                     /lib/x86_64-linux-gnu/libudev.so.1.3.5
+7f6cd8a4e000-7f6cd8a55000 r-xp 00000000 08:01 262502                     /lib/x86_64-linux-gnu/librt-2.19.so
+7f6cd8a55000-7f6cd8c54000 ---p 00007000 08:01 262502                     /lib/x86_64-linux-gnu/librt-2.19.so
+7f6cd8c54000-7f6cd8c55000 r--p 00006000 08:01 262502                     /lib/x86_64-linux-gnu/librt-2.19.so
+7f6cd8c55000-7f6cd8c56000 rw-p 00007000 08:01 262502                     /lib/x86_64-linux-gnu/librt-2.19.so
+7f6cd8c56000-7f6cd8cd2000 r-xp 00000000 08:01 262186                     /lib/x86_64-linux-gnu/libgcrypt.so.11.8.2
+7f6cd8cd2000-7f6cd8ed2000 ---p 0007c000 08:01 262186                     /lib/x86_64-linux-gnu/libgcrypt.so.11.8.2
+7f6cd8ed2000-7f6cd8ed3000 r--p 0007c000 08:01 262186                     /lib/x86_64-linux-gnu/libgcrypt.so.11.8.2
+7f6cd8ed3000-7f6cd8ed6000 rw-p 0007d000 08:01 262186                     /lib/x86_64-linux-gnu/libgcrypt.so.11.8.2
+7f6cd8ed6000-7f6cd8ef7000 r-xp 00000000 08:01 262215                     /lib/x86_64-linux-gnu/liblzma.so.5.0.0
+7f6cd8ef7000-7f6cd90f6000 ---p 00021000 08:01 262215                     /lib/x86_64-linux-gnu/liblzma.so.5.0.0
+7f6cd90f6000-7f6cd90f7000 r--p 00020000 08:01 262215                     /lib/x86_64-linux-gnu/liblzma.so.5.0.0
+7f6cd90f7000-7f6cd90f8000 rw-p 00021000 08:01 262215                     /lib/x86_64-linux-gnu/liblzma.so.5.0.0
+7f6cd90f8000-7f6cd913c000 r-xp 00000000 08:01 262341                     /lib/x86_64-linux-gnu/libdbus-1.so.3.7.6
+7f6cd913c000-7f6cd933b000 ---p 00044000 08:01 262341                     /lib/x86_64-linux-gnu/libdbus-1.so.3.7.6
+7f6cd933b000-7f6cd933c000 r--p 00043000 08:01 262341                     /lib/x86_64-linux-gnu/libdbus-1.so.3.7.6
+7f6cd933c000-7f6cd933d000 rw-p 00044000 08:01 262341                     /lib/x86_64-linux-gnu/libdbus-1.so.3.7.6
+7f6cd933d000-7f6cd9345000 r-xp 00000000 08:01 262223                     /lib/x86_64-linux-gnu/libnih-dbus.so.1.0.0
+7f6cd9345000-7f6cd9545000 ---p 00008000 08:01 262223                     /lib/x86_64-linux-gnu/libnih-dbus.so.1.0.0
+7f6cd9545000-7f6cd9546000 r--p 00008000 08:01 262223                     /lib/x86_64-linux-gnu/libnih-dbus.so.1.0.0
+7f6cd9546000-7f6cd9547000 rw-p 00009000 08:01 262223                     /lib/x86_64-linux-gnu/libnih-dbus.so.1.0.0
+7f6cd9547000-7f6cd955e000 r-xp 00000000 08:01 262225                     /lib/x86_64-linux-gnu/libnih.so.1.0.0
+7f6cd955e000-7f6cd975d000 ---p 00017000 08:01 262225                     /lib/x86_64-linux-gnu/libnih.so.1.0.0
+7f6cd975d000-7f6cd975e000 r--p 00016000 08:01 262225                     /lib/x86_64-linux-gnu/libnih.so.1.0.0
+7f6cd975e000-7f6cd975f000 rw-p 00017000 08:01 262225                     /lib/x86_64-linux-gnu/libnih.so.1.0.0
+7f6cd975f000-7f6cd9778000 r-xp 00000000 08:01 262347                     /lib/x86_64-linux-gnu/libcgmanager.so.0.0.0
+7f6cd9778000-7f6cd9977000 ---p 00019000 08:01 262347                     /lib/x86_64-linux-gnu/libcgmanager.so.0.0.0
+7f6cd9977000-7f6cd9979000 r--p 00018000 08:01 262347                     /lib/x86_64-linux-gnu/libcgmanager.so.0.0.0
+7f6cd9979000-7f6cd997a000 rw-p 0001a000 08:01 262347                     /lib/x86_64-linux-gnu/libcgmanager.so.0.0.0
+7f6cd997a000-7f6cd999a000 r-xp 00000000 08:01 262209                     /lib/x86_64-linux-gnu/libselinux.so.1
+7f6cd999a000-7f6cd9b99000 ---p 00020000 08:01 262209                     /lib/x86_64-linux-gnu/libselinux.so.1
+7f6cd9b99000-7f6cd9b9a000 r--p 0001f000 08:01 262209                     /lib/x86_64-linux-gnu/libselinux.so.1
+7f6cd9b9a000-7f6cd9b9b000 rw-p 00020000 08:01 262209                     /lib/x86_64-linux-gnu/libselinux.so.1
+7f6cd9b9b000-7f6cd9b9d000 rw-p 00000000 00:00 0 
+7f6cd9b9d000-7f6cd9d58000 r-xp 00000000 08:01 262402                     /lib/x86_64-linux-gnu/libc-2.19.so
+7f6cd9d58000-7f6cd9f57000 ---p 001bb000 08:01 262402                     /lib/x86_64-linux-gnu/libc-2.19.so
+7f6cd9f57000-7f6cd9f5b000 r--p 001ba000 08:01 262402                     /lib/x86_64-linux-gnu/libc-2.19.so
+7f6cd9f5b000-7f6cd9f5d000 rw-p 001be000 08:01 262402                     /lib/x86_64-linux-gnu/libc-2.19.so
+7f6cd9f5d000-7f6cd9f62000 rw-p 00000000 00:00 0 
+7f6cd9f62000-7f6cd9f97000 r-xp 00000000 08:01 262398                     /lib/x86_64-linux-gnu/libdevmapper.so.1.02.1
+7f6cd9f97000-7f6cda196000 ---p 00035000 08:01 262398                     /lib/x86_64-linux-gnu/libdevmapper.so.1.02.1
+7f6cda196000-7f6cda197000 r--p 00034000 08:01 262398                     /lib/x86_64-linux-gnu/libdevmapper.so.1.02.1
+7f6cda197000-7f6cda19a000 rw-p 00035000 08:01 262398                     /lib/x86_64-linux-gnu/libdevmapper.so.1.02.1
+7f6cda19a000-7f6cda19b000 rw-p 00000000 00:00 0 
+7f6cda19b000-7f6cda1b4000 r-xp 00000000 08:01 262421                     /lib/x86_64-linux-gnu/libpthread-2.19.so
+7f6cda1b4000-7f6cda3b3000 ---p 00019000 08:01 262421                     /lib/x86_64-linux-gnu/libpthread-2.19.so
+7f6cda3b3000-7f6cda3b4000 r--p 00018000 08:01 262421                     /lib/x86_64-linux-gnu/libpthread-2.19.so
+7f6cda3b4000-7f6cda3b5000 rw-p 00019000 08:01 262421                     /lib/x86_64-linux-gnu/libpthread-2.19.so
+7f6cda3b5000-7f6cda3b9000 rw-p 00000000 00:00 0 
+7f6cda3b9000-7f6cda3c4000 r-xp 00000000 08:01 838386                     /usr/lib/x86_64-linux-gnu/libapparmor.so.1.1.0
+7f6cda3c4000-7f6cda5c3000 ---p 0000b000 08:01 838386                     /usr/lib/x86_64-linux-gnu/libapparmor.so.1.1.0
+7f6cda5c3000-7f6cda5c4000 r--p 0000a000 08:01 838386                     /usr/lib/x86_64-linux-gnu/libapparmor.so.1.1.0
+7f6cda5c4000-7f6cda5c5000 rw-p 0000b000 08:01 838386                     /usr/lib/x86_64-linux-gnu/libapparmor.so.1.1.0
+7f6cda5c5000-7f6cda5de000 r-xp 00000000 08:01 262242                     /lib/x86_64-linux-gnu/libsystemd-journal.so.0.10.2
+7f6cda5de000-7f6cda7de000 ---p 00019000 08:01 262242                     /lib/x86_64-linux-gnu/libsystemd-journal.so.0.10.2
+7f6cda7de000-7f6cda7df000 r--p 00019000 08:01 262242                     /lib/x86_64-linux-gnu/libsystemd-journal.so.0.10.2
+7f6cda7df000-7f6cda7e0000 rw-p 0001a000 08:01 262242                     /lib/x86_64-linux-gnu/libsystemd-journal.so.0.10.2
+7f6cda7e0000-7f6cda803000 r-xp 00000000 08:01 262383                     /lib/x86_64-linux-gnu/ld-2.19.so
+7f6cda83d000-7f6cda9f7000 rw-p 00000000 00:00 0 
+7f6cdaa00000-7f6cdaa02000 rw-p 00000000 00:00 0 
+7f6cdaa02000-7f6cdaa03000 r--p 00022000 08:01 262383                     /lib/x86_64-linux-gnu/ld-2.19.so
+7f6cdaa03000-7f6cdaa04000 rw-p 00023000 08:01 262383                     /lib/x86_64-linux-gnu/ld-2.19.so
+7f6cdaa04000-7f6cdaa05000 rw-p 00000000 00:00 0 
+7ffdc211a000-7ffdc213b000 rw-p 00000000 00:00 0                          [stack]
+7ffdc2181000-7ffdc2183000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]

@@ -1,0 +1,41 @@
+Name:	docker
+State:	S (sleeping)
+Tgid:	4751
+Ngid:	0
+Pid:	4751
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	0 
+VmPeak:	  943316 kB
+VmSize:	  943316 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	   28160 kB
+VmRSS:	   28160 kB
+VmData:	  868724 kB
+VmStk:	     136 kB
+VmExe:	   26872 kB
+VmLib:	    4200 kB
+VmPTE:	     344 kB
+VmSwap:	       0 kB
+Threads:	25
+SigQ:	0/1028218
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	fffffffe7bfa3820
+SigIgn:	0000000000000000
+SigCgt:	ffffffffffc1feff
+CapInh:	0000000000000000
+CapPrm:	0000001fffffffff
+CapEff:	0000001fffffffff
+CapBnd:	0000001fffffffff
+Seccomp:	0
+Cpus_allowed:	ffffffff
+Cpus_allowed_list:	0-31
+Mems_allowed:	00000000,00000003
+Mems_allowed_list:	0-1
+voluntary_ctxt_switches:	417
+nonvoluntary_ctxt_switches:	15

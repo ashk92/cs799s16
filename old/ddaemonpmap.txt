@@ -1,0 +1,4 @@
+4751:   /usr/bin/docker daemon --dns 8.8.8.8 --dns 8.8.4.4 -g /proj/uw-cs739-f2015-PG0/docker
+Address           Kbytes     RSS   Dirty Mode  Mapping
+---------------- ------- ------- ------- 
+total kB               0       0       0
